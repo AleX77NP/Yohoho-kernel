@@ -1,4 +1,4 @@
-SLittle kernel in C & Assembly
+Little kernel in C & Assembly
 ==============================
 
 Little kernel loadable with the GRUB bootloader on x86 system.
